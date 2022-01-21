@@ -4,3 +4,5 @@ En este fichero se explica el contenido de nuestro repositorio. Creamos un fiche
 se llama "readme" y antes de guardarlo, vamos a "git" por donde se encuentra el history y ponemos que se guarde en "gitignore". Luego en la misma pagina, le ponemos el check a readme y luego le damos a "push"
 
 Copiamos el URL de github a RStudio, hacemos cambios y luego ponemos "commit"
+
+Hemos hecho otro cambio 
