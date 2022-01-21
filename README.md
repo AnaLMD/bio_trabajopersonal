@@ -6,3 +6,11 @@ se llama "readme" y antes de guardarlo, vamos a "git" por donde se encuentra el 
 Copiamos el URL de github a RStudio, hacemos cambios y luego ponemos "commit"
 
 Hemos hecho otro cambio 
+
+#Contenido
+
+##Exportar csv 
+Hemos exportado un csv en el script llamado *script_exportar.r*
+
+
+
