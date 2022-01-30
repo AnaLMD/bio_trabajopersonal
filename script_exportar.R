@@ -37,4 +37,5 @@ names(edad_tyr) <- c("Tiroides", "Media")
 
 edad_genero <- aggregate(tir_completo$patient_age, list(tir_completo$ThryroidClass, tir_completo$patient_gender), median)
 names(edad_genero) <- c("Tiroides", "Genero", "Median")
+
                       
